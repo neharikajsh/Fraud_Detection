@@ -27,3 +27,7 @@ step - maps a unit of time in the real world. In this case 1 step is 1 hour of t
 
 ## Summary of Results:
 Overall, the decision tree model showed robust performance with an accuracy of 96%, effectively distinguishing between fraudulent and non-fraudulent transactions. The results indicate its suitability for fraud detection tasks, providing confidence in its ability to detect fraudulent activities while minimizing false alarms. Further refinement could focus on optimizing false positive and false negative rates to enhance operational efficiency based on specific business needs.
+
+The decision tree model emphasizes the importance of monitoring changes in account balances, transaction amounts, and specific transaction types to detect fraudulent transactions effectively. By focusing on these key features, financial institutions can enhance their fraud detection systems, promptly identifying and mitigating potential risks associated with fraudulent activities.
+
+This approach underscores the significance of feature selection and analysis in developing robust fraud detection strategies, enabling proactive measures to safeguard financial transactions and uphold security standards.
