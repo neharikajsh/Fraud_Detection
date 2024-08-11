@@ -1,6 +1,9 @@
 # Fraudulent Transaction Detection using Machine Learning
 ## Project Objective
 This project centers on developing a robust fraud detection system leveraging decision tree algorithms. The primary objective is to predict fraudulent transactions based on historical transactional data, employing decision trees known for their interpretability and ability to capture complex relationships within the data.
+
+## Anti-Money Laundering - Case Study:
+Link : https://github.com/neharikajsh/Fraud_Detection/blob/main/AML_as_service-Case_Study.pdf
 ## Data Source :
 https://www.kaggle.com/datasets/ealaxi/paysim1
 
